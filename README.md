@@ -1,2 +1,3 @@
 # flight_project
-A website where his customers can come and search for flight
+
+A website where customers can come and search for flight
